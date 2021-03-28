@@ -2,8 +2,7 @@
 For IBM DS Certification Capstone Project.
 
 Introduction:
-Here we are going to explore 2 of the best cities in Australia, Sydney and Melbourne, and do our analysis based on the venues, clusters and FourSquare API analysis on the maps and decide which is better place to stay.
 
-The approach here is to cluster the SubUrbs based on the top 10 venues in that area and see which city is having more diverse cluster near by. The city with diverse clusters will be picked as the best city to live.
+As 2 of the best cities in Australia and always find place in the top 10 most livable cities in the world, Sydney and Melbourne are hard to be chosen from for moivng with family. Both of them has their own unique features and competing in most of the other features such as growth, urabanisation, education and quality of living.
 
-We do visual analsysi on the map using FourSquare API.
+Though it is varies based on the individuals and their preferences, here we try to pick one by analyzing with what we learnt so far and using FourSquare API and clustering techniques we try to find the common and differing features among the neighbours of these cities.
